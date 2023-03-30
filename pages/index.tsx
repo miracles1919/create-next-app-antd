@@ -26,7 +26,7 @@ export default function Home() {
             alt='Ant Design'
           />
           <Title level={2} style={{ marginBottom: 0 }}>
-            Ant Design
+            Ant Design
           </Title>
         </Space>
       </section>
